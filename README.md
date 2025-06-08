@@ -28,3 +28,9 @@ A simple and addictive space shooter game built with Python’s Pygame library. 
 
 ```bash 
 pip install pygame
+```
+
+2. **Run the game**
+```bash
+python airplane_game.py
+```
